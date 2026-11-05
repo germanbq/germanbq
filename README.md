@@ -11,7 +11,9 @@ A full-stack basketball application for exploring players, teams and games, comp
 - Next.js, React and TypeScript, with Clerk authentication and PostgreSQL.
 - Layered backend with controllers, services and repositories, using parameterised SQL queries.
 - Relational data modelling, database functions and triggers for statistical aggregates.
-- Tests using Vitest.
+- Tests using Vitest and Playwright.
+
+[Visitar página web](https://estadisticas-baloncesto.vercel.app/)
 
 *In development. Uses sample or simulated statistics.*
 
@@ -22,6 +24,10 @@ A digital product catalogue for a haircare and cosmetics shop in Madrid.
 - Built with Astro, TypeScript and Tailwind CSS.
 - Product search, filtering and sorting, with navigation by brand and product type.
 - Prerendered pages and reusable components for browsing the catalogue.
+
+[Visitar página web](https://pretty-woman.pages.dev/)
+
+*Initial version live, with more products to be added to the catalogue.*
 
 ### [Gold2Win](https://github.com/germanbq/Gold2Win)
 
